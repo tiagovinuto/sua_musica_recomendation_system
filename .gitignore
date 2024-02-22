@@ -1,0 +1,45 @@
+# Arquivos temporários
+*.tmp
+*.pyc
+*.temp
+__pycache__
+
+# Arquivos de configuração específicos do ambiente
+.env
+.venv
+*.env
+.vscode/settings.json
+
+# Arquivos de log
+*.log
+*.out
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Outros arquivos
+.DS_Store
+thumbs.db
+
+*.csv
+
+# Arquivos de configuração
+*.config
+*.ini
+
+# Arquivos de log
+*.log
+
+# Dados e arquivos temporários
+*.csv
+*.json
+*.parquet
+*.avro
+*.xls
+*.xlsx
+*.ipynb_checkpoints/
+
+# Diretórios Spark
+.metastore_db/
+.derby/
