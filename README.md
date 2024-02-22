@@ -4,7 +4,7 @@
 
 ## Descrição:
 
-Este projeto visa desenvolver um sistema de rekomendação de músicas que utilize técnicas de aprendizado de máquina para fornecer aos usuários sugestões personalizadas de músicas que eles possam gostar. O sistema será capaz de analisar o histórico de escuta do usuário, seus gostos musicais e outras informações relevantes para gerar rekomendações precisas e relevantes.
+Este projeto visa desenvolver um sistema de recomendação de músicas que utilize técnicas de aprendizado de máquina para fornecer aos usuários sugestões personalizadas de músicas que eles possam gostar. O sistema será capaz de analisar o histórico de escuta do usuário, seus gostos musicais e outras informações relevantes para gerar rekomendações precisas e relevantes.
 
 ## Funcionalidades
 
