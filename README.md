@@ -1,6 +1,6 @@
 ## Pipeline
 
-![Imagem do Pipeline](/home/tiago/Documents/sua_musica_recomendation_system/img/suaMusica_pipeline.drawio.png)
+![Imagem do Pipeline](https://drive.google.com/uc?id=1Xi8xvPY2t194eTvDgcnmd9r32I-mFuUU)
 
 ## Descrição:
 
